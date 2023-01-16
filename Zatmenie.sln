@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zatmenie", "Zatmenie.csproj", "{A520C400-BC13-4FB8-8BCA-07421F5E04DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A520C400-BC13-4FB8-8BCA-07421F5E04DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A520C400-BC13-4FB8-8BCA-07421F5E04DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A520C400-BC13-4FB8-8BCA-07421F5E04DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A520C400-BC13-4FB8-8BCA-07421F5E04DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88624D9C-4D57-4268-A4F2-F020E7674B2F}
+	EndGlobalSection
+EndGlobal
